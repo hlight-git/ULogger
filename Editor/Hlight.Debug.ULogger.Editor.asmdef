@@ -1,0 +1,18 @@
+{
+    "name": "Hlight.Debug.ULogger.Editor",
+    "rootNamespace": "Hlight.Debug.ULogger.Editor",
+    "references": [
+        "Hlight.Debug.ULogger"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
